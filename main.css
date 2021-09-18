@@ -101,6 +101,9 @@ h2 {
   margin-top: 3rem;
   box-shadow: 0 10px 20px #459e5c;
 }
+.sub a:hover {
+  opacity: 0.7;
+}
 .why {
   background-color: #4abebd;
   color: white;
